@@ -3,7 +3,7 @@
 
 ## Ingredients
 
--- Lemon
+-- Lime
 -- Avocado
 -- Onion
 
